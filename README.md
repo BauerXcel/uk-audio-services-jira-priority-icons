@@ -1,1 +1,1 @@
-# pimages
+# Images for Jira priorities
