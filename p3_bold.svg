@@ -8,9 +8,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="27.177958mm"
-   height="18.6436mm"
-   viewBox="0 0 27.177958 18.643601"
+   width="28.177999mm"
+   height="19.400681mm"
+   viewBox="0 0 28.178 19.400681"
    version="1.1"
    id="svg907"
    inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
@@ -46,9 +46,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8"
-     inkscape:cx="-5.0623003"
-     inkscape:cy="83.334274"
+     inkscape:zoom="5.6"
+     inkscape:cx="49.614004"
+     inkscape:cy="69.476423"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -57,7 +57,12 @@
      inkscape:window-height="1026"
      inkscape:window-x="2340"
      inkscape:window-y="144"
-     inkscape:window-maximized="0" />
+     inkscape:window-maximized="0"
+     fit-margin-top="0"
+     fit-margin-left="-2.3"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     borderlayer="true" />
   <metadata
      id="metadata904">
     <rdf:RDF>
@@ -66,7 +71,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -74,17 +79,18 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-1.2594199,10.833124)">
+     transform="translate(21.753732,8.3842259)">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:25.4px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none"
-       x="-1.0265801"
-       y="7.5564761"
-       id="text12"><tspan
+       style="font-style:normal;font-weight:normal;font-size:25.234px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.397385;stroke-miterlimit:4;stroke-dasharray:none"
+       x="-23.353249"
+       y="10.439994"
+       id="text12"
+       transform="scale(1.0065801,0.99346294)"><tspan
          sodipodi:role="line"
          id="tspan10"
-         x="-1.0265801"
-         y="7.5564761"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.4px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">P3</tspan></text>
+         x="-23.353249"
+         y="10.439994"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.234px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:0.397385;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">P3</tspan></text>
   </g>
 </svg>
